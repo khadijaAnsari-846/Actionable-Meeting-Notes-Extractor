@@ -1,0 +1,35 @@
+# Web & API
+fastapi
+uvicorn
+python-multipart
+pydantic
+sqlalchemy
+psycopg2-binary
+
+# Task Queue
+celery
+redis
+
+# Media Handling
+yt-dlp                   # For YouTube/Video links
+youtube-transcript-api   # For fetching existing YT captions
+faster-whisper           # High-speed transcription
+pyannote.audio           # Speaker Diarization (Who said what?)
+pydub                    # Audio manipulation
+
+# AI & Agents
+crewai                   # Multi-agent framework
+langchain
+langchain-huggingface
+google-generativeai
+
+
+# Utils
+python-dotenv
+structlog                # Production-grade logging
+
+
+
+faster-whisper
+pyannote.audio       # For Speaker Diarization
+pydub

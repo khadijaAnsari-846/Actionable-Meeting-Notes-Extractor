@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database and uploads
+data/
+*.db
+*.sqlite3
+uploads/
+downloads/
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+
+# Environment
+.env
+.env.local
+myenv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test files (if you don't want them in repo)
+# test_*.py
+# debug_*.py
+
+# Zip files
+*.zip
+
+# Streamlit
+.streamlit/
