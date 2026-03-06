@@ -1,5 +1,5 @@
 
-# CRM Intelligence Pipeline 🎯
+#  Actionable Meeting Notes Extractor  Pipeline 🎯
 
 An intelligent pipeline that transcribes, analyzes, and extracts insights from meetings/ calls and meetings using AI agents.
 
